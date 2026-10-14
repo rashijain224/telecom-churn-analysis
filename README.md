@@ -68,7 +68,7 @@ IBM telecom customer churn dataset (Kaggle), 7,043 customers. Each row is one cu
 
 ## Files
 
-- `churn_dashboard.pbi`: Power BI report
+- `churn_dashboard.pbix`: Power BI report
 - `churn_dashboard.pdf`: exported dashboard (3 pages)
 - `churn_analysis.sql`: SQL queries
 - `page1_overview.png`, `page2_churn_drivers.png`, `page3_risk_actions.png`: screenshots
